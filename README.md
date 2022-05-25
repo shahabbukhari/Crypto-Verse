@@ -1,6 +1,6 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://ibb.co/4KxJL1b)
+![Cryptoverse](https://i.ibb.co/bQn7Vb4/screenshot.png)
 
 ## Introduction
 Crypto Verse is the cryptocurrency app. providing all the information about cryptocurrencies and news related to them.
