@@ -1,6 +1,6 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
-![Cryptoverse](.\src\images\screenshot.png)
+![Cryptoverse](https://ibb.co/4KxJL1b)
 
 ## Introduction
 Crypto Verse is the cryptocurrency app. providing all the information about cryptocurrencies and news related to them.
@@ -14,4 +14,4 @@ Crypto Verse is the cryptocurrency app. providing all the information about cryp
 - Chart.js: To display charts
 - html-react-parser: to parse html response from Api to ui
 
-[Live Preview](https://www.example.com)
+[Live Preview](https://musical-dango-b31f54.netlify.app/)
